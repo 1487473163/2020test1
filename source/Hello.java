@@ -1,3 +1,4 @@
 public class Hello{
-	HelloWorld.java
+	String name;
+	int age;
 }
